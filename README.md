@@ -1,16 +1,9 @@
-# mb3
+# Staggered Grid
 
 A new Flutter project.
 
-## Getting Started
+##Screen shots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/121785209/236384855-ad017761-197b-411a-9e25-f500ef54bb1d.png" height=400px/> |
+<img src = "https://user-images.githubusercontent.com/121785209/236384861-ff2a1612-2eab-4637-bea3-915f821cfad8.png" height=400px/> |
+<img src = "https://user-images.githubusercontent.com/121785209/236384866-3f1e8ed9-43ab-4131-8587-7da33357b1d5.png" height=400px/>
