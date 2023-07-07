@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-##Screen shots
+## Screen shots
 
 <img src = "https://user-images.githubusercontent.com/121785209/236384855-ad017761-197b-411a-9e25-f500ef54bb1d.png" height=400px/> |
 <img src = "https://user-images.githubusercontent.com/121785209/236384861-ff2a1612-2eab-4637-bea3-915f821cfad8.png" height=400px/> |
